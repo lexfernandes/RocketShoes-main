@@ -78,7 +78,6 @@ body {
   align-items: center;
 }
 .product-selected {
-  box-shadow: 5px 5px 10px 1px #000;
 }
 .details {
   max-width: 35.7rem;
